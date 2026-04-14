@@ -1,6 +1,6 @@
 # Home Network Security & Management Project
 
-Conducted a security assessment of a home network, documenting architecture and recommending improvements in patch management, access control, and network security by creating a manageable network plan document using NSA standards.
+Conducted a security assessment of a home network, documenting architecture and recommending improvements in patch management, access control, and network security by creating a manageable network plan document aligned with NIST CSF and relevant NIST SP 800-series security controls.
 
 ---
 
