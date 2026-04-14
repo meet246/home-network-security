@@ -84,7 +84,7 @@ This project transforms an undocumented and minimally secured network into a str
 
 ### Example Scan Output
 ![Nmap Scan](./images/nmap-scan.png)
-
+Protocols used: HTTP/HTTPS, IMAP, TCP/UDP, SMTP, POP, ARP, DHCP, IPsec, SSL/TLS, mDNS, RTSP, RTP, VoIP
 ---
 
 ## Security Enhancements Implemented
