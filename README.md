@@ -60,6 +60,7 @@ This project transforms an undocumented and minimally secured network into a str
 
 ### Architecture Diagram
 ![Network Diagram](./images/network-diagram.png)
+
 **Architecture Note:** The local environment was integrated into a larger campus infrastructure via a high-density enterprise switch
 
 ### Key Components
@@ -85,7 +86,9 @@ This project transforms an undocumented and minimally secured network into a str
 
 ### Example Scan Output
 ![Nmap Scan](./images/nmap-scan.png)
+
 **Protocols Analyzed:** HTTP/S, IMAP, TCP/UDP, SMTP, POP, ARP, DHCP, IPsec, SSL/TLS, mDNS, RTSP, RTP, VoIP
+
 ---
 
 ## Security Enhancements Implemented
